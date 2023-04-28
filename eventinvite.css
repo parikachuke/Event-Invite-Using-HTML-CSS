@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Event Invite</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f5f5f5;
+		}
+		
+		.container {
+			margin: auto;
+			padding: 20px;
+			background-color: #fff;
+			border-radius: 5px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+			max-width: 600px;
+		}
+		
+		h1 {
+			text-align: center;
+			font-size: 36px;
+			color: #333;
+			margin-top: 0;
+		}
+		
+		h2 {
+			font-size: 24px;
+			color: #333;
+			margin-top: 20px;
+		}
+		
+		p {
+			font-size: 16px;
+			color: #555;
+			line-height: 1.5;
+			margin: 10px 0;
+		}
+		
+		button {
+			background-color: #008CBA;
+			color: #fff;
+			padding: 10px 20px;
+			border-radius: 5px;
+			border: none;
+			font-size: 16px;
+			cursor: pointer;
+		}
+		
+		button:hover {
+			background-color: #0077A3;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>Parika's Birthday</h1>
+		<h2>7 June 2023</h2>
+		<p>Event Description:Come join us for a birthday bash! Celebrate with friends, food, and fun as we mark another year of life. There will be cake, music, and games for all ages. Don't miss out on the chance to make unforgettable memories. RSVP now to reserve your spot!.</p>
+		<p>Location: 123 Main St, Anytown, USA</p>
+		<button>RSVP</button>
+	</div>
+</body>
+</html>
